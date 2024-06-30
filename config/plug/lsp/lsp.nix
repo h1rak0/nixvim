@@ -11,8 +11,9 @@
         marksman = {enable = true;};
         pyright = {enable = true;};
         gopls = {enable = true;};
-        terraformls = {enable = true;};
-        tsserver = {enable = false;};
+        terraformls = {enable = false;};
+        tsserver = {enable = true;};
+        clangd = {enable = true;};
         yamlls = {
           enable = true;
         };
