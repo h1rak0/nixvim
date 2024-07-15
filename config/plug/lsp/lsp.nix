@@ -14,6 +14,7 @@
         terraformls = {enable = false;};
         tsserver = {enable = true;};
         clangd = {enable = true;};
+        java-language-server = {enable = true;};
         yamlls = {
           enable = true;
         };
